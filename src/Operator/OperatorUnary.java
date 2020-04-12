@@ -9,7 +9,7 @@ public class OperatorUnary {
         System.out.println(i);  //tuh betulkan i nilainya 2
         i=i+1;                  //bisa dilihat i++ sama dengan i = i+1
         System.out.println(i);  // i tadi 2 sekarang jadi 3
-        
+
 
     }
 }
