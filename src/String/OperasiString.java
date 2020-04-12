@@ -6,5 +6,9 @@ public class OperasiString {
         String kota = "Yogyakarta";
 
         System.out.println(kota);
+
+        char[] uniskaChar = {'U','N','I','S','K','A'};
+        String unsikaString = new String(uniskaChar);
+        System.out.println(unsikaString);
     }
 }
